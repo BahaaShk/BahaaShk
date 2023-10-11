@@ -1,4 +1,4 @@
-[![MasterHead](https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif)]
+[![MasterHead](img src ="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif" align="center" alt="Coding" width="400")]
     
 ## 
 Hello world !! <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Earth.gif" width="24px">
@@ -29,5 +29,5 @@ Hello world !! <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob
 [![Bootstrap](https://img.shields.io/badge/-Bootstrap-563D7C?style=flat&logo=bootstrap&link=https://github.com/BahaaShk)](https://github.com/BahaaShk) 
 
 [![React](https://img.shields.io/badge/-React-black?style=flat&logo=react&link=https://github.com/BahaaShk)](https://github.com/BahaaShk) 
-[![Tailwind](https://img.shields.io/badge/-Tailwind-black?style=flat&logo=tailwind&link=https://github.com/BahaaShk)](https://github.com/BahaaShk) 
+[![Tailwind](https://img.shields.io/badge/-Tailwind-CSS-black?style=flat&logo=tailwind&link=https://github.com/BahaaShk)](https://github.com/BahaaShk) 
 [![Git](https://img.shields.io/badge/-Git-black?style=flat&logo=git&link=https://github.com/BahaaShk)](https://github.com/BahaaShk) 
