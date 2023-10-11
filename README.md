@@ -1,4 +1,4 @@
-[![MasterHead](img src ="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif" align="center" alt="Coding" width="400")]
+<img src ="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif" width="90%">
     
 ## 
 Hello world !! <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Earth.gif" width="24px">
@@ -8,10 +8,10 @@ Hello world !! <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob
 ### Portfolio: https://bahaashk-portfolio.netlify.app/
 
 <a href="https://www.linkedin.com/in/bahaa-shkair-3b5066208">
-  <img align="left" color="blue" alt="Bahaa's Linkedin" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />
+  <img align="left" color="blue" alt="Bahaa's Linkedin" width="32px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />
 </a>
 <a href="https://instagram.com/bahaashk22?igshid=NGVhN2U2NjQ0Yg==">
-  <img align="left" color="yellow" alt="Bahaa's Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />
+  <img align="left" color="yellow" alt="Bahaa's Instagram" width="32px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />
 </a>
 
 <br />
@@ -29,5 +29,5 @@ Hello world !! <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob
 [![Bootstrap](https://img.shields.io/badge/-Bootstrap-563D7C?style=flat&logo=bootstrap&link=https://github.com/BahaaShk)](https://github.com/BahaaShk) 
 
 [![React](https://img.shields.io/badge/-React-black?style=flat&logo=react&link=https://github.com/BahaaShk)](https://github.com/BahaaShk) 
-[![Tailwind](https://img.shields.io/badge/-Tailwind-CSS-black?style=flat&logo=tailwind&link=https://github.com/BahaaShk)](https://github.com/BahaaShk) 
+[![Tailwind](https://img.shields.io/badge/TailwindCSS-black?style=flat&logo=tailwindcss&link=https://github.com/BahaaShk)](https://github.com/BahaaShk) 
 [![Git](https://img.shields.io/badge/-Git-black?style=flat&logo=git&link=https://github.com/BahaaShk)](https://github.com/BahaaShk) 
