@@ -1,16 +1,33 @@
-### Hi there 👋
+[![MasterHead](https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif)]
+    
+## 
+Hello world !! <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Earth.gif" width="24px">
 
-<!--
-**BahaaShk/BahaaShk** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### Hello! I'm Bahaa Shkair a Front-End Developer from Lebanon.
 
-Here are some ideas to get you started:
+### Portfolio: https://bahaashk-portfolio.netlify.app/
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<a href="https://www.linkedin.com/in/bahaa-shkair-3b5066208">
+  <img align="left" color="blue" alt="Bahaa's Linkedin" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />
+</a>
+<a href="https://instagram.com/bahaashk22?igshid=NGVhN2U2NjQ0Yg==">
+  <img align="left" color="yellow" alt="Bahaa's Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />
+</a>
+
+<br />
+<br />
+
+  <img align="right" alt="GIF" src="https://media.giphy.com/media/836HiJc7pgzy8iNXCn/giphy.gif" />
+  
+### 👨‍💻 Languages and Tools
+
+<br />
+
+[![JavaScript](https://img.shields.io/badge/-JavaScript-black?style=flat&logo=javascript&link=https://github.com/BahaaShk)](https://github.com/BahaaShk) 
+[![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=flat&logo=html5&logoColor=white&link=https://github.com/BahaaShk)](https://github.com/BahaaShk) 
+[![CSS3](https://img.shields.io/badge/-CSS3-1572B6?style=flat&logo=css3&link=https://github.com/BahaaShk)](https://github.com/BahaaShk) 
+[![Bootstrap](https://img.shields.io/badge/-Bootstrap-563D7C?style=flat&logo=bootstrap&link=https://github.com/BahaaShk)](https://github.com/BahaaShk) 
+
+[![React](https://img.shields.io/badge/-React-black?style=flat&logo=react&link=https://github.com/BahaaShk)](https://github.com/BahaaShk) 
+[![Tailwind](https://img.shields.io/badge/-Tailwind-black?style=flat&logo=tailwind&link=https://github.com/BahaaShk)](https://github.com/BahaaShk) 
+[![Git](https://img.shields.io/badge/-Git-black?style=flat&logo=git&link=https://github.com/BahaaShk)](https://github.com/BahaaShk) 
