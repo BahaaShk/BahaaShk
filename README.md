@@ -1,9 +1,9 @@
-<img src ="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif" width="90%">
+<img src ="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif" width="70%">
     
 ## 
-Hello world !! <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Earth.gif" width="24px">
+Hello world !! <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Earth.gif" width="20px">
 
-### Hello! I'm Bahaa Shkair a Front-End Developer from Lebanon.
+### I'm Bahaa Shkair a Front-End Developer from Lebanon.
 
 ### Portfolio: https://bahaashk-portfolio.netlify.app/
 
