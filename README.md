@@ -7,7 +7,7 @@ Hello world !! <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob
 
 ### Portfolio: https://bahaashk-portfolio.netlify.app/
 
-<a href="https://www.linkedin.com/in/bahaa-shkair-3b5066208">
+<a href="https://www.linkedin.com/in/bahaa-shkair">
   <img align="left" color="blue" alt="Bahaa's Linkedin" width="32px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />
 </a>
 <a href="https://instagram.com/bahaashk22?igshid=NGVhN2U2NjQ0Yg==">
