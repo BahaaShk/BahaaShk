@@ -1,7 +1,7 @@
-<img src ="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif" width="30%">
     
-## 
+
 Hello world !! <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Earth.gif" width="20px">
+<img align="right" src ="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif" width="40%">
 
 ### I'm Bahaa Shkair a Front-End Developer from Lebanon.
 
@@ -16,8 +16,7 @@ Hello world !! <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob
 
 <br />
 <br />
-
-  <img align="right" alt="GIF" src="https://media.giphy.com/media/836HiJc7pgzy8iNXCn/giphy.gif" />
+  
   
 ### 👨‍💻 Languages and Tools
 
