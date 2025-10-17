@@ -1,4 +1,4 @@
-<img src ="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif" width="70%">
+<img src ="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif" width="30%">
     
 ## 
 Hello world !! <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Earth.gif" width="20px">
