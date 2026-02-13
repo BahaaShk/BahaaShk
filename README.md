@@ -8,10 +8,10 @@ Hello world !! <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob
 ### Portfolio: https://bahaashk-portfolio.netlify.app/
 
 <a href="https://www.linkedin.com/in/bahaa-shkair">
-  <img align="left" color="blue" alt="Bahaa's Linkedin" width="32px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />
+  <img align="left" color="blue" alt="Bahaa's Linkedin" width="32px" src="https://cdn-icons-png.flaticon.com/128/3536/3536505.png" />
 </a>
 <a href="https://instagram.com/bahaashk22?igshid=NGVhN2U2NjQ0Yg==">
-  <img align="left" color="yellow" alt="Bahaa's Instagram" width="32px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />
+  <img align="left" color="yellow" alt="Bahaa's Instagram" width="32px" src="https://cdn-icons-png.flaticon.com/128/174/174855.png" />
 </a>
 
 <br />
