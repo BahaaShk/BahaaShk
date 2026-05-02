@@ -43,12 +43,3 @@ Building polished, production-ready web experiences with React, Next.js, and Tai
 
 [![Git](https://img.shields.io/badge/-Git-black?style=flat&logo=git)](https://github.com/BahaaShk)
 [![VS Code](https://img.shields.io/badge/-VS_Code-007ACC?style=flat&logo=visual-studio-code)](https://github.com/BahaaShk)
-
----
-
-### 📊 GitHub Stats
-
-<p align="left">
-  <img src="https://github-readme-stats.vercel.app/api?username=BahaaShk&show_icons=true&theme=dark&hide_border=true" height="160" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=BahaaShk&layout=compact&theme=dark&hide_border=true" height="160" />
-</p>
