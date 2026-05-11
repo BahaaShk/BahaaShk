@@ -5,7 +5,7 @@
 **Front-End Developer · Lebanon**  
 Building polished, production-ready web experiences with React, Next.js, and Tailwind CSS.
 
-🌐 **Portfolio:** [bahaashk-portfolio.netlify.app](https://bahaashk-portfolio.netlify.app/)
+🌐 **Portfolio:** [bahaa-shkair.com](https://bahaa-shkair.com)
 
 <a href="https://www.linkedin.com/in/bahaa-shkair">
   <img align="left" alt="LinkedIn" width="30px" src="https://cdn-icons-png.flaticon.com/128/3536/3536505.png" />
