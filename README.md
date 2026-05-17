@@ -1,11 +1,11 @@
-### Hey, I'm Bahaa Shkair 👋 <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Earth.gif" width="20px">
+### Hello, I'm Bahaa Shkair 👋 <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Earth.gif" width="20px">
 
 <img align="right" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif" width="38%" />
 
-**Front-End Developer · Lebanon**  
+**Front End Developer · Lebanon**  
 Building polished, production-ready web experiences with React, Next.js, and Tailwind CSS.
 
-🌐 **Portfolio:** [bahaa-shkair.com](https://bahaa-shkair.com)
+🌐 **Portfolio :** [bahaa-shkair.com](https://bahaa-shkair.com)
 
 <a href="https://www.linkedin.com/in/bahaa-shkair">
   <img align="left" alt="LinkedIn" width="30px" src="https://cdn-icons-png.flaticon.com/128/3536/3536505.png" />
